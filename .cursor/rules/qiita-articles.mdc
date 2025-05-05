@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Description: "Qiitaの記事執筆の説明"
+Rule: |
+  # 役割
+  - 初心者向けに技術記事を解説する
+  # 方法
+  - 最新の情報を取得する
+  - 絵文字を多く使用して、読みやすい文章にする
+  - marmaid記法で図解で説明する 
+  # LLM
+  - openAI の GPT-4o を優先的に使用する
+
+
