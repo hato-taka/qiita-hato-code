@@ -1,5 +1,5 @@
 ---
-title: 【図解でわかる】初めてのEKS入門！Amazon Elastic Kubernetes Serviceの使い方
+title: 【図解でわかる】初めてのEKS入門
 tags:
   - AWS
   - Cloud
@@ -8,7 +8,6 @@ tags:
   - eks
 private: true
 updated_at: "2025-05-06T03:00:00+09:00"
-id: 
 organization_url_name: null
 slide: false
 ignorePublish: false
